@@ -1,3 +1,15 @@
-Simple Periodic Table made using React, Axios and Styled-components.
+![Logo YG](http://github.yourigruiters.com/images/logo.png)
 
-- Youri Gruiters 20-02-20
+# Periodic Table
+Very simple periodic table made in React
+
+## Used Modules
+
+* Create-react-app
+* Styled-components
+* CSS-Grid
+
+## Images 
+
+![Image1](http://github.yourigruiters.com/images/periodictable1.png)
+![Image2](http://github.yourigruiters.com/images/periodictable2.png)
